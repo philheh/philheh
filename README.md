@@ -8,7 +8,7 @@ ___
   <p><b>I am a Frontend-developer with an expertise in EdTech willing to apply my knowledge to YOUR product.</b></p>
   <ul><p><b>What I got to stand out:</b></p>
     <li>Solid JS/React knowledge</li>
-    <li>Master's in automation and engineering field</li>
+    <li>Master's in automation and engineering</li>
     <li>Eager to create great products and be better</li>
     <li>A sense of playing in a team to deliver the best result to an end user.</li>
   </ul>
